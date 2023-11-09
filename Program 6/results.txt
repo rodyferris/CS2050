@@ -1,0 +1,7 @@
+Rhodes Ferris
+CS-2050 Program 6
+Type of sort: Bubble Sort    Type of data: int    time: 290776543
+Type of sort: Selection Sort    Type of date: int    time: 261492151
+Type of sort: Bubble Sort    Type of data: String    time: 363263860
+Type of sort: Selection Sort    Type of data: String    time: 340718483
+Type of sort: Collections.sort    Type of data: String    time: 11748306

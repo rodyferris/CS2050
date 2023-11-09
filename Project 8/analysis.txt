@@ -1,0 +1,5 @@
+Rhodes Ferris
+Program 8 BST Analysis
+Number of nodes: 10427
+Tree height: 39
+Max possible nodes: 2147483646
