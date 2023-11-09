@@ -1,0 +1,11 @@
+4 + 6 * 3.1 -> invalid character
+4 + (6 * 3.1) -> invalid character
+(4 + 6) * 3.1 -> invalid character
+2 + 3 * 4 -> invalid character
+2 & 3 @ 4 -> invalid character
+2 + 3 % 4 -> invalid character
+2.0 + 3 * 4 -> invalid character
+(2.0 + 3 / 4 -> invalid character
+3 + 4 * 2 / ( 1 – 5 ) -> invalid character
+3 + 4.0 * 2 / ( 1.0 – 5 ) -> invalid character
+42 / 9.2 / 3.1 * 6 -> invalid character
